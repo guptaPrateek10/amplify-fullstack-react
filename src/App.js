@@ -3,7 +3,7 @@
 function App() {
   return (
     <div >
-     <p>AWS Amplify fullstack app</p>
+     <p>AWS Amplify fullstack app Hosted</p>
     </div>
   );
 }
